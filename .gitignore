@@ -1,0 +1,30 @@
+*sqlite*
+__pycache__/
+.idea
+logs
+.DS_STORE
+*/static/*
+.vagrant
+Vagrantfile
+*.pyc
+media/
+
+build/
+dist/
+*.egg-info
+
+# Lint tools
+.coverage
+htmlcov/*
+
+### Vim ###
+# swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
